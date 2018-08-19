@@ -1,0 +1,11 @@
+Web application pentesting
+==========================
+https://github.com/tanprathan/OWASP-Testing-Checklist
+https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet
+https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents
+
+https://medium.com/@infosecsanyam/bug-bounty-hunting-methodology-toolkit-tips-tricks-blogs-ef6542301c65
+https://forum.bugcrowd.com/t/researcher-resources-how-to-become-a-bug-bounty-hunter/1102
+https://forum.bugcrowd.com/t/researcher-resources-tools/167
+https://www.bugcrowd.com/getting-started-bug-bounty-hunter-methodology/
+++ Pentester academy videos
