@@ -1,0 +1,27 @@
+
+Goal- Beginner level penetration testing skills in,
+web app/web services
+thick client
+mobile
+SAST
+Network
+
+Web application pentesting
+==========================
+https://github.com/tanprathan/OWASP-Testing-Checklist
+https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet
+https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents
+https://medium.com/@infosecsanyam/bug-bounty-hunting-methodology-toolkit-tips-tricks-blogs-ef6542301c65
+https://forum.bugcrowd.com/t/researcher-resources-how-to-become-a-bug-bounty-hunter/1102
+https://forum.bugcrowd.com/t/researcher-resources-tools/167
+https://www.bugcrowd.com/getting-started-bug-bounty-hunter-methodology/
+++ Pentester academy videos
+
+Some web app testing methodologies:
+OWASP (https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents)
+WAHH (http://mdsec.net/wahh/tasks.html)
+
+
+Tip: Burpsuite is the tool for manual pentest. A tool for bug hunters. It has various extensions and continues to have more. So its always beneficial to be aware of new burp extensions coming up that will help to quicken the testing process by automating testing of a test case through out many URls of the application at the same time.
+** its better to write down best tool names for respective vulnerabilities that will help test mass URLs quickly at once.
+A bug hunter's approach is the correct approach to web app pentesting.
