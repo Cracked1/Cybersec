@@ -13,3 +13,8 @@ https://forum.bugcrowd.com/t/researcher-resources-how-to-become-a-bug-bounty-hun
 https://forum.bugcrowd.com/t/researcher-resources-tools/167
 https://www.bugcrowd.com/getting-started-bug-bounty-hunter-methodology/
 ++ Pentester academy videos
+
+
+
+
+1 week self training course (OWASP cheatsheet) [Sun 19 to Sat 25] - bwapp+pentesterlab_pentesterlab_webforpentester_I_and_II (mass assignment from web sec cheatsheet owasp )
