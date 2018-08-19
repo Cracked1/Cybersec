@@ -1,9 +1,10 @@
 
 Goal- Beginner level penetration testing skills in,
-web app/web services
+web app/web services - PCI testing also
 thick client
 mobile
 SAST
+
 Network
 
 Web application pentesting
@@ -17,14 +18,21 @@ https://forum.bugcrowd.com/t/researcher-resources-tools/167
 https://www.bugcrowd.com/getting-started-bug-bounty-hunter-methodology/
 ++ Pentester academy videos
 
-Some penetration testing methodologies:
+>>Some penetration testing methodologies:
 OWASP (https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents)
 WAHH (http://mdsec.net/wahh/tasks.html)
 Portswigger (https://support.portswigger.net/customer/portal/articles/2326039-the-burp-methodology)(https://portswigger.net/blog/new-burp-suite-testing-methodologies)
 PCI Penetration testing guide
-Overall- Penetration Testing Execution Standard (PTES)(http://www.pentest-standard.org/index.php/PTES_Technical_Guidelines)
+(Read)Penetration Testing Execution Standard (PTES)(http://www.pentest-standard.org/index.php/PTES_Technical_Guidelines) - See OSINT and how can it be applied.
 
 
 Tip: Burpsuite is the tool for manual pentest. A tool for bug hunters. It has various extensions and continues to have more. So its always beneficial to be aware of new burp extensions coming up that will help to quicken the testing process by automating testing of a test case through out many URls of the application at the same time.
 ** its better to write down best tool names for respective vulnerabilities that will help test mass URLs quickly at once.
 A bug hunter's approach is the correct approach to web app pentesting.
+
+
+***/// self training course on key tools only. No unnecessary noise.
+Burp Suite Professional(full extensions and all), HP Web Inspect
+
+
+
