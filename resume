@@ -3,11 +3,69 @@
 
 
 https://blog.pentesterlab.com/writing-a-good-resume-15eb9832e425
+Resume include
+1) header - name contact without any heading
+2) career statement without any heading
+3) profile summary - that matches the job description/required skill/roles-n-responsibilities/experience required.
+4) employment history (term+roles)
+2016 – Till Date with <company>
+Role:
+• 
+5) Certification
+6) Technical Skills (in tabular-Commercial tools, open source tools, Web dev, scripting languages)
+7) Education
+8) Personal Details
+
+
 
 
 My Profile [acquire beginner level skill]
 ==========
-Experience in Web application, web services, 
+•	More than 2 years of experience in CyberSecurity with good knowledge in web app, web services,thick client.
+• Experienced in White and Black Box Vulnerability assessments and Penetration Testing of applications.
+• Strong understanding of OWASP TOP 10 and SANS TOP 25 application security guidelines. && Secure SDLC??
+• In-depth understanding of vulnerabilities, exploit techniques and remediation measures.
+• Knowledge on commercial tools such as Burpsuite Professional and WebInspect.
+•	Hands on experience in different types of open source security tools like nmap, SQLmap, Wireshark, Metasploit.
+•	Familiar with penetration testing OS like Kali Linux.
+• Good understanding of Session management, SQL injection, Cross-Site Scripting, Authentication and Authorization vulnerabiltiies as well as knowledge of vulnerabilities specific to PHP, ASP.NET and JAVA applications.
+• Exposure to secure code review as well as security testing of Mobile applications(android and iOS).
+• Ability to explain findings to technical as well as non-technical professionals
+• Excellent report writing and presentation skills
+• Able to work independently and also as part of a team.
+
+
+
+Roles and responsibilties
+=========================
+My_OWN
+•	Gathering pre-requisites.
+•	Vulnerability Assessment and Penetration Testing of internal as well as external web applications, web services and thick client applications in Production and Non-production environments.
+•	Reporting and providing recommendations for the vulnerabilities detected.
+•	Reviewing reports.
+•	Assist the development team to understand the vulnerability and fixes.
+•	Retesting the fix before deployment in production environment.
+
+SOmeOne_else's
+Conducting VA/PT assessments starting from effort-estimation to status closure.
+• Profiling an application, identifying threats and exploiting vulnerabilities in the application.
+• Helping the customer understand the consequences of the vulnerabilities found and also providing with the remediation for the same followed by revalidation to ensure proper closure of the risk identified.
+• Developing various test cases and payload as per the application business logic to exploit the vulnerabilities.
+• Responsible for writing document on niche security areas like ethical hacking, pen testing, web services security.
+• Involved in planning and executing various training programs for to aid new associates learn application security.
+• Prepared checklist for dynamic assessment to help conduct penetrating testing and ethical hacking projects.
+• Performing Dynamic assessment as per the client/industry standards, requirements and compliance.
+• Coordinated with the development team to identify suitable security measures required for their web application.
+
+Interesting Profile Summaries
+=============================
+
+MY_OWN
+Application Security (Vulnerability Assessment and Penetration Testing)
+
+
+
+
 
 
 
