@@ -1,0 +1,79 @@
+1] Using creative approaches to identify vulnerabilities that are commonly missed in security assessments
+
+2] Engage in red-team activities and produce artefacts of skill improvements in terms of CTFs cleared (e.g. CTFs cleared in rootme.org, hackthebox etc...) and how it benefitted the group
+
+3] Guide & mentor scan analyst layer, help detect differential findings
+
+4] Develop or standardize advance penetration and vulnerability detection mechanism
+
+5] Develop deep understanding on commercial tools like CheckMarx, Fortify, IBM AppScan Source, Veracode, Nessus, Qualys VM, Rapid 7 and create technical documents pertaining to VA/PT related to tools mentioned above.
+
+6] CoE activities
+1. Involvement in Hackquest 2. Create Proof of concepts 3. Impart and attend trainings 4. Create documentations 5. Others(reviewing)
+
+7] Perform VA/PT assessments - project and one-offs (web, mobile, SAST)
+
+Team Skill:
+It is the ability of an individual to create an environment of trust and cooperation through an open exchange of ideas towards achieving team goals.
+
+Customer Focus:
+The ability to service customer requirements while focusing on customer delight, to collaborate with existing customers to add value to business relationship and sense new business opportunity by exploring and satisfying market demands.
+
+Analytical Ability:
+Ability to make systematic and rational judgments based on relevant information.
+
+=======================================================================================================================================================================
+
+Analytical Ability:
+Ability to make systematic and rational judgments based on relevant information.
+
+Customer Focus:
+The ability to service customer requirements while focusing on customer delight, to collaborate with existing customers to add value to business relationship and sense new business opportunity by exploring and satisfying market demands.
+
+Initiative / Proactiveness:
+Takes action to meet work-related objectives without being asked or required to do so. Seeks out and willingly undertakes new challenges, responsibilities / assignments.
+
+Innovation and Creativity:
+Ability of an individual to provide an original solution by using various tools and techniques and constantly questioning the status quo.
+
+Team Skill:
+It is the ability of an individual to create an environment of trust and co-operation through an open exchange of ideas towards achieving team goals. 
+
+=======================================================================================================================================================================
+
+oct
+
+nov
+
+dec
+
+jan
+
+feb
+
+mar
+
+current job:-
+1. advanced vapt of web app/web service/thick client/cloud based app.
+2. red team skills/hack the box hall of fame/training for oscp
+3. training scan analyst layer
+4. hackquest
+5. php secure coding
+6. get bug bounty hall of fame
+7. my project business expansion.
+
+=======================================================================================================================================================================
+ 
+
+=======================================================================================================================================================================
+
+1. get better at hacking
+2. get better at current job
+3. get a new job
+4. get better social experience - family, friends, neighbours and colleagues - social pronow, etc.
+5. get better at managing my family and finances and achieving goals of my family and finances.
+6. getting started to writing in my idea book
+7. get back my self-respect
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ragu raman, josh talks, etc.
