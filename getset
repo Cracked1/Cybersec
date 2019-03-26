@@ -1,0 +1,14 @@
+GET SET CATCH CTF Contest Duration:5days (Tue 26March10 AM IST - Sat 30March6PM IST)
+
+SSH USerName: Saifullah_976313
+SSH Password: E8RQwTB/s4Ja09sBs11UA==
+Kali host Public IP: ec2-13-234-87-186.ap-south-1.compute.amazonaws.com
+Challenge Box Internal IP: 10.10.10.136
+Instruction documents: https://docs.fresco.me/8867884/preview
+
+for normal attack
+ssh Saifullah_976313@ec2-13-234-87-186.ap-south-1.compute.amazonaws.com -p 8080
+E8RQwTB/s4Ja09sBs11UA==
+for browser access
+ssh -L 8157:10.10.10.136:80 Saifullah_976313@ec2-13-234-87-186.ap-south-1.compute.amazonaws.com -N -p 8080
+E8RQwTB/s4Ja09sBs11UA==
